@@ -34,13 +34,13 @@
     "node": ">=8.0.0"
   },
   "author": "ycl",
-  "homepage": "https://github.com/silencelog/lode-nacos",
+  "homepage": "https://github.com/silencelog/lono-nacos",
   "repository": {
     "type": "git",
-    "url": "git@github.com:silencelog/lode-nacos.git"
+    "url": "git@github.com:silencelog/lono-nacos.git"
   },
   "bugs": {
-    "url": "https://github.com/silencelog/lode-nacos/issues"
+    "url": "https://github.com/silencelog/lono-nacos/issues"
   },
   "license": "MIT"
 }
